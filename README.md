@@ -1,9 +1,9 @@
 # Canadian Work Permit Holders & Labour Demand Analysis (2018–2024)
 
 ## Project Overview
-This project analyzes **Canadian Work Permit Holder data from 2018 to 2024** to understand immigration trends and labour demand across provinces and key industries. Using **SQL Server** and **Microsoft Power BI**, the project transforms raw immigration data into meaningful insights that support workforce planning and policy analysis.
+This project analyzes Canadian Work Permit Holder data from 2018 to 2024 to understand immigration trends and labour demand across provinces and key industries. Using SQL Server and Microsoft Power BI, the project transforms raw immigration data into meaningful insights that support workforce planning and policy analysis.
 
-The study focuses on foreign workers admitted under the **Temporary Foreign Worker Program (TFWP)** and the **International Mobility Program (IMP)**.
+The study focuses on foreign workers admitted under the Temporary Foreign Worker Program (TFWP) and the International Mobility Program (IMP).
 
 
 ## Objectives
