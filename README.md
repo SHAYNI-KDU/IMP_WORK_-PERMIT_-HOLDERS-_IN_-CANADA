@@ -86,7 +86,8 @@ Foreign workers play a critical role in sustaining Canada’s economy, particula
 ---
 
 ## Academic Context
--Course: SQL for Data Science (LB1224)
--Program: BSc in Applied Data Science Communication
--University: General Sir John Kotelawala Defence University
--Team Members: D.P. Chami Sadunika, M.M.C.C. Marasinghe, E.S.R. Ruparathna, W.D.S.N. Kulasooriya
+- Course: SQL for Data Science (LB1224)
+- Program: BSc in Applied Data Science Communication
+- University: General Sir John Kotelawala Defence University
+- Team Members: D.P. Chami Sadunika, M.M.C.C. Marasinghe, E.S.R. Ruparathna, W.D.S.N. Kulasooriya
+
